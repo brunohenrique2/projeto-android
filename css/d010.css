@@ -42,7 +42,7 @@ body {
 
 header {
     background-image: linear-gradient(to bottom, var(--color03), var(--color06));
-    height: 150px;
+    height: 200px;
     padding-top: 40px;
     text-align: center;
 }
